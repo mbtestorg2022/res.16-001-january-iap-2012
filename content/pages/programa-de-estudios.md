@@ -26,34 +26,270 @@ Biografías de los instructores del curso y facilitadores pueden encontrar a con
 Temas por sesión
 ----------------
 
-| SES # | TEMAS POR SESIÓN |
-| --- | --- |
-| {{< td-colspan 2 >}}**Día 1**{{< /td-colspan >}} ||
-| 1–1 | ¿Por qué estoy aquí? |
-| 1–2 | Inicio de su viaje Lean |
-| 1–3 |  {{< br >}}{{< br >}} Pensamiento Lean I {{< br >}}{{< br >}} Pensamiento Lean II {{< br >}}{{< br >}}  |
-| 1–4 | Visita a la Planta de New Balance® |
-| 1–5 | Las Personas: El Corazón de Lean |
-| 1–6 | Bases del Mapa del Flujo de Valor |
-| {{< td-colspan 2 >}}**Día 2 Opción Enterprise**{{< /td-colspan >}} ||
-| 2–1 | Simulación de empresa Lean, los segmentos I, II, y III |
-| 2–2 | Bases de la Cadena de Abastecimiento Lean |
-| 2–3 | Simulación de empresa Lean, el segmento II |
-| 2–4 | Bases de la Ingeniería Lean |
-| 2–5 | Lean de simulación de la salud III |
-| {{< td-colspan 2 >}}**Día 2 Opción Salud**{{< /td-colspan >}} ||
-| 2–1 | Lean de simulación de la salud I: Rendimiento de línea de base |
-| 2–2 | Mejora continua del proceso |
-| 2–3 | Lean de simulación de la salud II |
-| 2–4 | La mejora de la empresa |
-| 2–5 | Lean de simulación de la salud III |
-| {{< td-colspan 2 >}}**Día 2 Común**{{< /td-colspan >}} ||
-| 2–6 | Cuentas por pagar I: Introducción al Estudio del caso |
-| {{< td-colspan 2 >}}**Día 3**{{< /td-colspan >}} ||
-| 3–1 | Cuentas por pagar II: la cadena de valor de análisis |
-| 3–2 | Simulación de la variabilidad |
-| 3–3 | Inclinarse para la asistencia sanitaria: una visión general |
-| 3–4 | Pensamiento A3 |
-| 3–5 | Herramientas y Temas de Calidad |
-| 3–6 | Aspectos básicos de Six Sigma |
-| 3–7 | Video de Clay Jones
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TEMAS POR SESIÓN
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Día 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–1
+{{< tdclose >}}
+{{< tdopen >}}
+¿Por qué estoy aquí?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–2
+{{< tdclose >}}
+{{< tdopen >}}
+Inicio de su viaje Lean
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pensamiento Lean I
+
+Pensamiento Lean II
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–4
+{{< tdclose >}}
+{{< tdopen >}}
+Visita a la Planta de New Balance®
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–5
+{{< tdclose >}}
+{{< tdopen >}}
+Las Personas: El Corazón de Lean
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–6
+{{< tdclose >}}
+{{< tdopen >}}
+Bases del Mapa del Flujo de Valor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Día 2 Opción Enterprise**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–1
+{{< tdclose >}}
+{{< tdopen >}}
+Simulación de empresa Lean, los segmentos I, II, y III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–2
+{{< tdclose >}}
+{{< tdopen >}}
+Bases de la Cadena de Abastecimiento Lean
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–3
+{{< tdclose >}}
+{{< tdopen >}}
+Simulación de empresa Lean, el segmento II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–4
+{{< tdclose >}}
+{{< tdopen >}}
+Bases de la Ingeniería Lean
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–5
+{{< tdclose >}}
+{{< tdopen >}}
+Lean de simulación de la salud III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Día 2 Opción Salud**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–1
+{{< tdclose >}}
+{{< tdopen >}}
+Lean de simulación de la salud I: Rendimiento de línea de base
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–2
+{{< tdclose >}}
+{{< tdopen >}}
+Mejora continua del proceso
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–3
+{{< tdclose >}}
+{{< tdopen >}}
+Lean de simulación de la salud II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–4
+{{< tdclose >}}
+{{< tdopen >}}
+La mejora de la empresa
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–5
+{{< tdclose >}}
+{{< tdopen >}}
+Lean de simulación de la salud III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Día 2 Común**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–6
+{{< tdclose >}}
+{{< tdopen >}}
+Cuentas por pagar I: Introducción al Estudio del caso
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Día 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–1
+{{< tdclose >}}
+{{< tdopen >}}
+Cuentas por pagar II: la cadena de valor de análisis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–2
+{{< tdclose >}}
+{{< tdopen >}}
+Simulación de la variabilidad
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–3
+{{< tdclose >}}
+{{< tdopen >}}
+Inclinarse para la asistencia sanitaria: una visión general
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–4
+{{< tdclose >}}
+{{< tdopen >}}
+Pensamiento A3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–5
+{{< tdclose >}}
+{{< tdopen >}}
+Herramientas y Temas de Calidad
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–6
+{{< tdclose >}}
+{{< tdopen >}}
+Aspectos básicos de Six Sigma
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–7
+{{< tdclose >}}
+{{< tdopen >}}
+Video de Clay Jones
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
