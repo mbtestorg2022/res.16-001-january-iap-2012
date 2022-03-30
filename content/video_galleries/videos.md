@@ -12,7 +12,7 @@ videos:
   website: res-16-001-lean-enterprise-en-espanol-january-iap-2012
 ---
 
-Los videos de Visita a Planta New Balance® son parte del curso desde 2008 ; el video de Lean Transformation Rockwell Collins fue grabado en 2006. Otros videos de este curso están disponibles en Inglés en [16.660J Introduction to Lean Six Sigma Methods](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/pages/lecture-videos).
+Los videos de Visita a Planta New Balance® son parte del curso desde 2008 ; el video de Lean Transformation Rockwell Collins fue grabado en 2006. Otros videos de este curso están disponibles en Inglés en [16.660J Introduction to Lean Six Sigma Methods](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/video_galleries/lecture-videos).
 
 {{< video-gallery "f17ec699-d546-15f6-66bc-355732f6cd90" >}}
 
